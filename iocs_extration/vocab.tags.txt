@@ -1,0 +1,8 @@
+CVE
+Domain
+Email
+Hash
+IP
+O
+Registry
+URL
